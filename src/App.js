@@ -33,7 +33,7 @@ function App() {
         (
           <>
             <Link to="/addpost"> Create Post </Link>
-            <button onClick={Usersignout}> Log Out</button>
+            <button onClick={Usersignout}>  Log Out</button>
           </>
         )}
     </nav>
